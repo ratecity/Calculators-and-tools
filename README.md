@@ -1,1 +1,1 @@
-# RateCity Calculators and Tooks
+# RateCity Calculators and Tools
